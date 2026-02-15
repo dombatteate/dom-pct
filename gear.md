@@ -27,7 +27,7 @@ permalink: /gear/
   (function () {
     let tries = 0;
     const timer = setInterval(() => {
-      const iframe = document.querySelector('#lm2int iframe');
+      const iframe = document.querySelector('#y1me1j iframe');
       tries++;
 
       if (iframe) {
