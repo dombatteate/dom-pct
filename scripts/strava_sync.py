@@ -1,4 +1,4 @@
-import os, json, math, urllib.request, urllib.parse, urllib.error
+import os, json, math, urllib.request, urllib.parse
 
 CLIENT_ID = os.environ["STRAVA_CLIENT_ID"]
 CLIENT_SECRET = os.environ["STRAVA_CLIENT_SECRET"]
@@ -11,6 +11,8 @@ STATE_PATH = "data/strava_state.json"
 # Wie viele Punkte fürs Höhenprofil maximal gespeichert werden (Dateigröße!)
 PROFILE_MAX_POINTS = 220
 
+
+import urllib.error
 
 def post_form(url, data):
     encoded = urllib.parse.urlencode(data).encode("utf-8")
