@@ -19,10 +19,18 @@ def post_form(url, data):
         return json.loads(r.read().decode("utf-8"))
 
 
+import urllib.error  # <-- add near the top with the other imports
+
 def get_json(url, headers=None):
     req = urllib.request.Request(url, headers=headers or {})
-    with urllib.request.urlopen(req) as r:
-        return json.loads(r.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(req) as r:
+            return json.loads(r.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        print("HTTPError", e.code, "for", url)
+        print("Response body:", body)
+        raise
 
 
 def refresh_access_token():
