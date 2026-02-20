@@ -1,4 +1,4 @@
-import os, json, math, urllib.request, urllib.parse
+import os, json, math, urllib.request, urllib.parse, urllib.error
 
 CLIENT_ID = os.environ["STRAVA_CLIENT_ID"]
 CLIENT_SECRET = os.environ["STRAVA_CLIENT_SECRET"]
@@ -15,11 +15,14 @@ PROFILE_MAX_POINTS = 220
 def post_form(url, data):
     encoded = urllib.parse.urlencode(data).encode("utf-8")
     req = urllib.request.Request(url, data=encoded, method="POST")
-    with urllib.request.urlopen(req) as r:
-        return json.loads(r.read().decode("utf-8"))
-
-
-import urllib.error  # <-- add near the top with the other imports
+    try:
+        with urllib.request.urlopen(req) as r:
+            return json.loads(r.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        print("HTTPError", e.code, "for", url)
+        print("Response body:", body)
+        raise
 
 def get_json(url, headers=None):
     req = urllib.request.Request(url, headers=headers or {})
