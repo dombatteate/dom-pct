@@ -9,6 +9,13 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
  <div class="update-card">
+    <div class="update-date">Feb 20, 2026</div>
+    <div class="update-text">
+      website up and fully running
+    </div>
+  </div>
+
+ <div class="update-card">
     <div class="update-date">Feb 17, 2026</div>
     <div class="update-text">
       Estebanski is getting cooking
