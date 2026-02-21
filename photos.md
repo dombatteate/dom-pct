@@ -75,9 +75,9 @@ nav: photos
 
 <script>
   // --- CONFIG (only these 3 values matter) ---
-  const FLICKR_API_KEY = "a8b28521e8527042f868d9b98b567ff3";
-  const USER_ID = "35469735@N03";
-  const PHOTOSET_ID = "72177720331905792"; // your album id
+  const FLICKR_API_KEY = "268f8fa52b4083fcefc52f01e842d7c9";
+  const USER_ID = "204237225@N04";
+  const PHOTOSET_ID = "72177720332150809"; // your album id
 
   // JSONP helper (avoids any CORS headaches on GitHub Pages)
   function jsonp(url) {
