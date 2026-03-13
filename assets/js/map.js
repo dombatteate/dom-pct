@@ -474,9 +474,9 @@
   const time = Number.isFinite(tSec) ? fmtDuration(tSec) : "—";
 
   const elevM = pickElevationMeters(props);
-  const elevStr = elevM == null ? "—" : `${fmtInt(elevM)} m / ${fmtInt(toFt(elevM))} ft`;
+  const elevStr = elevM == null ? "—" : `${fmtInt(toFt(elevM))} ft`;
 
-  const distStr = (km == null || mi == null) ? "—" : `${fmtNumber(km, 1)} km / ${fmtNumber(mi, 1)} mi`;
+  const distStr = mi == null ? "—" : `${fmtNumber(mi, 1)} mi`;
 
   return `
     <div class="pct-popup">
@@ -648,8 +648,8 @@
       <div class="pct-stat-hero">
         <div class="label">Total Distance</div>
         <div class="big">
-          <div class="primary">${fmtNumber(s.totalKm, 1)} km</div>
-          <div class="secondary">${fmtNumber(s.totalMi, 1)} mi</div>
+          <div class="primary">${fmtNumber(s.totalMi, 1)} mi</div>
+          <div class="secondary"></div>
         </div>
       </div>
 
@@ -685,11 +685,10 @@
 
   function setInsightsUI(s) {
   const pctTxt = Number.isFinite(s.pctCompleted) ? `${fmtNumber(s.pctCompleted, 1)}%` : "—%";
-  const kmLine = `${fmtNumber(s.totalKm, 1)} km of ${fmtInt(PCT_TOTAL_KM)} km`;
   const miLine = `${fmtNumber(s.totalMi, 1)} mi of ${fmtInt(PCT_TOTAL_MI)} mi`;
-  const pctLine = `${pctTxt} · ${kmLine} · ${miLine}`;
+  const pctLine = `${pctTxt} · ${miLine}`;
 
-  const remainingLine = `${fmtNumber(s.remainingKm, 1)} km / ${fmtNumber(s.remainingMi, 1)} mi`;
+  const remainingLine = `${fmtNumber(s.remainingMi, 1)} mi`; 
   const pctWidth = Math.max(0, Math.min(100, Number.isFinite(s.pctCompleted) ? s.pctCompleted : 0));
 
   const firstLine = s.firstTs ? new Date(s.firstTs).toLocaleDateString() : "—";
