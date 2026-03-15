@@ -637,11 +637,11 @@
   const elevMain = s.elevCount ? `${fmtInt(toFt(s.elevM))} ft` : "—";
   const elevSub = "";
 
-  const avgDistMain = s.featsCount ? `${fmtNumber(s.avgDistPerActKm, 1)} km` : "—";
-  const avgDistSub = s.featsCount ? `${fmtNumber(s.avgDistPerActMi, 1)} mi` : "";
+  const avgDistMain = s.featsCount ? `${fmtNumber(s.avgDistPerActMi, 1)} mi` : "—";
+  const avgDistSub = "";
 
-  const avgSpeedMain = s.avgKmh ? `${fmtNumber(s.avgKmh, 1)} km/h` : "—";
-  const avgSpeedSub = s.avgMph ? `${fmtNumber(s.avgMph, 1)} mi/h` : "";
+  const avgSpeedMain = s.avgMph ? `${fmtNumber(s.avgMph, 1)} mi/h` : "—";
+  const avgSpeedSub = "";
 
   statsListEl.innerHTML = `
     <div class="pct-stats-wrap">
@@ -706,14 +706,13 @@
         </div>
       `;
     }
-    const km = toKm(item.distM);
     const mi = toMi(item.distM);
     const time = item.timeS != null ? fmtDuration(item.timeS) : "—";
     return `
       <div class="pct-chip">
         <div class="label">${label}</div>
-        <div class="pct-day-km">${fmtNumber(km, 1)} km</div>
-        <div class="pct-day-meta">${fmtNumber(mi, 1)} mi · ${time}</div>
+        <div class="pct-day-km">${fmtNumber(mi, 1)} mi</div>
+        <div class="pct-day-meta">${time}</div>
         <div class="pct-day-date">${item.dateLabel}</div>
       </div>
     `;
