@@ -9,6 +9,13 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 5, 2026</div>
+    <div class="update-text">
+      happy easter!! got to scissors crossing and hitched a ride 10mi to Julian, Sprinter is the trail angel that picked us up. Staying for a full rest day tomorrow, blisters amany on the feet to heal.
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 2, 2026</div>
     <div class="update-text">
       another 15mi day, dry camped again. looking at another 15 tomorrow. 
