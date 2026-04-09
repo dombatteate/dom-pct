@@ -11,7 +11,7 @@ nav: updates
 <div class="update-card">
     <div class="update-date">April 9, 2026</div>
     <div class="update-text">
-      Got in midday to Warner Springs Community Center, charged up, resupplied, and talked with other pct'ers. The next 4 days will be all uphill, approx 6k ft of climb to a town called Idyllwild. Should be cool weather so no worries about 15mi stretches of wayer carry. 
+      Got in midday yesterday (4/8) to Warner Springs Community Center, charged up, resupplied, and talked with other pct'ers. The next 4 days will be all uphill, approx 6k ft of climb to a town called Idyllwild. Should be cool weather so no worries about 15mi stretches of wayer carry. 
     </div>
   </div>
 
