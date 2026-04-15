@@ -9,6 +9,14 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 15, 2026</div>
+    <div class="update-text">
+      Going up to the peak of San Jacinto (10,800ft) and now back down to 1,700ft today has kicked my butt. Snow and slush up on San Jac and now its desert next to Palm Springs. Nitsy (trail angel) is picking us up at mile 209 (hwy 10), we are staying the night at her place and back on the trail tomorrow.
+    </div>
+  </div>
+
+
+<div class="update-card">
     <div class="update-date">April 14, 2026</div>
     <div class="update-text">
       Rained and hailed most of last night in Idyllwild. Woke up to blue sky's and the sun warming everything up. We go back up to summit San Jacinto this morning, sanjacjon.com is best place to see mtn conditions. After summit to 10,600ft we walk down to appox 6,700ft to camp. Should be about a 17mi day.
