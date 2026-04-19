@@ -9,6 +9,13 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 18, 2026</div>
+    <div class="update-text">
+      Closed yesterday (April 17th) starting the Mission Creek washout, did 3 miles of its 10mi total. The Mission Creek washout is a 10mi section, 4k+ of constant elevation gain walking through sand, river rock, and bouldering. The remaining 7mi of Mission Creek would normally take us 2.5hrs but it took 4hrs, easily. We were shooting for a 19mi day but unded up doing 16. Was a very very challenging day, caught some stomach bug that killed my appetite. Setup camp in a mountain top saddle looking back down over Palm Springs. Temperatures got down to freezing, my backup water left outside my tent froze. Pushing 21mi tomorrow to stay on track and get into Big Bear. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 16, 2026</div>
     <div class="update-text">
       Had a great stay at Nitsy's. Shower, laundry, dinner and breakfast. She's dropping us off back at the trail at ~6:30. 19mi day ahead, next town is Big Bear. Wont hit Big Bear for three days. Going to be paying extra attention with stops and stretching of my ankles/legs. 
