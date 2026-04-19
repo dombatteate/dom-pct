@@ -11,7 +11,7 @@ nav: updates
 <div class="update-card">
     <div class="update-date">April 18, 2026</div>
     <div class="update-text">
-      Most of the 21mi were downhill, double edged sword as its faster pace but puts a lot of strain and pain on my ankles/feet. Taking a zero day tomorrow (Sunday). My stomach is still a bit uneasy but ate a bunch of kimchi and getting plenty of rest. Bought new water, filter, toothbrush, etc. in case something is contaminated and getting me sick. Also, was a super cool couple at the hwy 16 junction where the pct drops into big bear, they had gatorades and snacks and offering rides into town. We would have taken them up on the ride but I ordered an uber when we were a half mile from the highway, I was super ready for a proper dinner (ended up being Thai) and a full bath. Will be in Wrightwood in 5 days, should be next Friday. 
+      Most of the 21mi were downhill, double edged sword as its faster pace but puts a lot of strain and pain on my ankles/feet. Taking a zero day tomorrow (Sunday). My stomach is still a bit uneasy but ate a bunch of kimchi and getting plenty of rest. Bought new water, filter, toothbrush, etc. in case something is contaminated and getting me sick. Also, was a super cool couple at the hwy 18 junction where the pct drops into big bear, they had gatorades and snacks and offering rides into town. We would have taken them up on the ride but I ordered an uber when we were a half mile from the highway, I was super ready for a proper dinner (ended up being Thai) and a full bath. Will be in Wrightwood in 5 days, should be next Friday. 
     </div>
   </div>
 
