@@ -9,6 +9,13 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 26, 2026</div>
+    <div class="update-text">
+      Have a trail angel picking us up from the airbnb at 7am, trying to get back on the trail as early as possible. It rained and snowed last night, clear this morning though. Baden Powell is the last big climb of the southern section, after this its warmer and flatter. 20mi day is the plan, compression leg sleeves and new sole inserts should do me a world of better. Thursday we should be rolling into a town called Agua Dolce for a quick resupply and back out Friday morning. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 24, 2026</div>
     <div class="update-text">
       Holy cow my ankles hurt. Will add photos of how swollen they are. Gonna get compression leg sleeves and sole inserts. Gotta get these buddies better to keep this thing possible. Got to the parking lot, walked through an off season ski resort, was an odd place. There were a couple ponds they keep full up top for making fake snow. There was a fire a year or two ago, lots of burnt trees and stacked logs. When we got to the parking lot that should have been an easy hitch, no cars were coming by. We walked four miles towards town to a busier road, got a hitch there from a very nice couple that also gave us orange slices, was so good. Staying tonight plus tomorroww before going back up and climbing Mt Baden Powell on Sunday. Will be about 3500ft of climb over 7mi. We are gonna try and the pace up over next two weeks and see how the body holds up. 
