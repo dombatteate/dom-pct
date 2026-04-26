@@ -9,6 +9,13 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 22, 2026</div>
+    <div class="update-text">
+      Today is going to be a big day, aiming for 25+mi today. Goal is to get 6mi ahead of schedule this week so we can get into town easier. If we stick to the plan and dont get 6mi further we'd go down Acorn trail which is 2k ft decent over 2.5mi and still need a hitch to town. If we do get the 6mi ahead we'll get to a parking lot and hitch to town from there, plus we'll be 6mi closer to Mt Baden Powell after a Wrightwood zero day. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 20, 2026</div>
     <div class="update-text">
       Attempted to schedule an uber ride for a 6:30am pickup to get back to the trail head, no luck. No uber or taxi running before 8am in big bear lake it seems. We walked a couple miles toward the trail direction and hitched a ride from a very cool dude named Benjamin. Looked to be an army vet from the hat in his back seat, he said he's battling cancer, wishing him the best. Really cool that he was willing to give two hitchikers a ride while he's dealing with so much. Plan is to walk about 20mi to make headway to Wrightwood. 
