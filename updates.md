@@ -9,6 +9,20 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 24, 2026</div>
+    <div class="update-text">
+      Holy cow my ankles hurt. Will add photos of how swollen they are. Gonna get compression leg sleeves and sole inserts. Gotta get these buddies better to keep this thing possible. Got to the parking lot, walked through an off season ski resort, was an odd place. There were a couple ponds they keep full up top for making fake snow. There was a fire a year or two ago, lots of burnt trees and stacked logs. When we got to the parking lot that should have been an easy hitch, no cars were coming by. We walked four miles towards town to a busier road, got a hitch there from a very nice couple that also gave us orange slices, was so good. Staying tonight plus tomorroww before going back up and climbing Mt Baden Powell on Sunday. Will be about 3500ft of climb over 7mi. We are gonna try and the pace up over next two weeks and see how the body holds up. 
+    </div>
+  </div>
+
+<div class="update-card">
+    <div class="update-date">April 23, 2026</div>
+    <div class="update-text">
+      Yeaterday we made the progress on getting ahead which meant we got to a must stop, McDonalds on hwy15. got there in time for sausage mcmuffins too :) After the junk food stop its on to a water cache and then the start if a 5k ft ascent over 12mi. Gonna break the 12mi over two days. The camping spot we are aiming for will have a nice view back down over riverside. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 22, 2026</div>
     <div class="update-text">
       Today is going to be a big day, aiming for 25+mi today. Goal is to get 6mi ahead of schedule this week so we can get into town easier. If we stick to the plan and dont get 6mi further we'd go down Acorn trail which is 2k ft decent over 2.5mi and still need a hitch to town. If we do get the 6mi ahead we'll get to a parking lot and hitch to town from there, plus we'll be 6mi closer to Mt Baden Powell after a Wrightwood zero day. 
