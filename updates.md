@@ -11,6 +11,14 @@ nav: updates
 <div class="update-card">
     <div class="update-date">April 26, 2026</div>
     <div class="update-text">
+      Mt Baden Powell & Mt Williamson update
+      Photos will be uploaded asap, you'll see it was cold, snowy, icy, and all around a day that was going to be uncomfortable. If you didnt know, Baden Powell is named after the founder of the boy scouts. First 5mi were to get to the base of Baden, on the way there we saw fresh bear tracks crossing the path, going up the hill. Happy it was going the opposite way. Going up was only as hard as the vertical climb, there were multiple fresh tracks from local day hikers going up the mountain. Once we got to the top we signed the log book, saw two other pct'rs bames in the book for the same day as us but we couldnt see their tracks going down the other side of the mountain. We were the first pct'rs going down the other side of the mtn, it was rough and gnarly. It was very cold, we knew we had a long day ahead to try and get low enough so we dont camp in the snow. We lost the trail sometimes and needed to scramble back up the mtn to get back on trail. We didnt take breaks, just kept pushing to get off the mtn. We passed a popular camp spot called Little Jimmy's, it was covered in snow. We later heard 15 people camped there that night, bonkers busy. The problem was once we got off Baden we needed to go straight up Williamson. It was 4pm and we decided to push the 4mi up and over Williamson, it was cold and icy coming down the back of it. Coming down it we came across a road with some flat spots, we setup camp and was asleep by 6:30, slept 12hrs straight to 6:30. 
+    </div>
+  </div>
+
+<div class="update-card">
+    <div class="update-date">April 26, 2026</div>
+    <div class="update-text">
       Have a trail angel picking us up from the airbnb at 7am, trying to get back on the trail as early as possible. It rained and snowed last night, clear this morning though. Baden Powell is the last big climb of the southern section, after this its warmer and flatter. 20mi day is the plan, compression leg sleeves and new sole inserts should do me a world of better. Thursday we should be rolling into a town called Agua Dolce for a quick resupply and back out Friday morning. 
     </div>
   </div>
