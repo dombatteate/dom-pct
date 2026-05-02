@@ -9,6 +9,13 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 27 & 28, 2026</div>
+    <div class="update-text">
+      Two big days of pushing 23ish miles to setup a shorter Wednesday (29th). Wednesday we will walk through Agua Dolce, a sleepy town that has nice homes, restaurants, and resupply options. We’ll pay $30 to stay at the Hiker Oasis, fee includes shower, toilets, laundry access, and setup a tent anywhere there’s an open spot. Took some photos of the oasis. Also went into town for way too much Coca-Cola and Mexican food. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 26, 2026</div>
     <div class="update-text">
       Mt Baden Powell & Mt Williamson update
