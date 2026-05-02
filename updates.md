@@ -9,9 +9,16 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 29, 2026</div>
+    <div class="update-text">
+      Got into Agua Dolce by 3pm, was beaten up pretty good by the heat. Saw one rattler, photo posted. Walked through a famous rock park, supposedly Star Trek and stuff has filmed there, the rock photos may look familiar. In Agua Dolce we hit the grocery store, I drank a cherry coke before checking out and bought enough candy to address any cravings on the trail. Hiker Oasis was great, it’s ran by a guy named Farmer John, super nice. Took some photos of the oasis. Also went into town for way too much Coca-Cola and Mexican food. Got everything squared away, ready for the next three days pushing to Hiker Town. From Hiker Town we’ll resupply and push three more days to Tehatchapi…taking a well deserved recover zero day there. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 27 & 28, 2026</div>
     <div class="update-text">
-      Two big days of pushing 23ish miles to setup a shorter Wednesday (29th). Wednesday we will walk through Agua Dolce, a sleepy town that has nice homes, restaurants, and resupply options. We’ll pay $30 to stay at the Hiker Oasis, fee includes shower, toilets, laundry access, and setup a tent anywhere there’s an open spot. Took some photos of the oasis. Also went into town for way too much Coca-Cola and Mexican food. 
+      Two big days of pushing 23ish miles to setup a shorter Wednesday (29th). Wednesday we will walk through Agua Dolce, a sleepy town that has nice homes, restaurants, and resupply options. We’ll pay $30 to stay at the Hiker Oasis, fee includes shower, toilets, laundry access, and setup a tent anywhere there’s an open spot.  
     </div>
   </div>
 
