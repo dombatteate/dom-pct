@@ -9,6 +9,13 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">May 2, 2026</div>
+    <div class="update-text">
+      Woke up at 5 to beat the sun rising, glad we did. got into hikertown at a out 3pm. went to the store, resupplied however I could, photo of the haul uploaded. going to bed by 8pm, getting up at 2am to walk 25mi through the mojave, 17 or so of the miles will be on an aquaduct. staying at hiker town, its cool, setup a tent anywhere on the property. they have a ferrari here too, go figure. showers are $5, water washt working quite right so i just did a foot wash. two 25mi days and we'll zero a day in tehachapi.
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 29, 2026</div>
     <div class="update-text">
       Got into Agua Dolce by 3pm, was beaten up pretty good by the heat. Saw one rattler, photo posted. Walked through a famous rock park, supposedly Star Trek and stuff has filmed there, the rock photos may look familiar. In Agua Dolce we hit the grocery store, I drank a cherry coke before checking out and bought enough candy to address any cravings on the trail. Hiker Oasis was great, it’s ran by a guy named Farmer John, super nice. Took some photos of the oasis. Also went into town for way too much Coca-Cola and Mexican food. Got everything squared away, ready for the next three days pushing to Hiker Town. From Hiker Town we’ll resupply and push three more days to Tehatchapi…taking a well deserved recover zero day there. 
