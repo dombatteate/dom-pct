@@ -9,6 +9,13 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">April 14, 2026</div>
+    <div class="update-text">
+      Just got into Kennedy Meadows South! The official close to the desert section! Next up are the Sierra's. Thankfully Amy is coming out to KMS to pick us up, we'll be off trail until May 27th-ish, gotta take care of some life stuff. Its time for new shoes, rework the backpack for whats needed in the next leg. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">May 2, 2026</div>
     <div class="update-text">
       Woke up at 5 to beat the sun rising, glad we did. got into hikertown at a out 3pm. went to the store, resupplied however I could, photo of the haul uploaded. going to bed by 8pm, getting up at 2am to walk 25mi through the mojave, 17 or so of the miles will be on an aquaduct. staying at hiker town, its cool, setup a tent anywhere on the property. they have a ferrari here too, go figure. showers are $5, water washt working quite right so i just did a foot wash. two 25mi days and we'll zero a day in tehachapi.
