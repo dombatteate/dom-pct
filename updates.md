@@ -9,6 +9,15 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">May 26, 2026</div>
+    <div class="update-text">
+      Woke up early and hit the road at 5am to start the drive from Martinez back to Kennedy Meadows South. Wouldn’t be a proper send off without hitting an hour of Bay Area traffic, gonna get to KMS around 3. Plan is to walk 7mi and setup camp. Tomorrow and the next day will be 20mi days, Saturday is the day we are targeting to hit Mt Whitney, over Forester Pass on Sunday. Monday we’ll hit Kearsarge Pass to get to a town called Independence to resupply. Not expecting much cell reception the next couple of weeks, will try and update whenever signal is available (likely town days). 
+
+It was great seeing my daughters, my family, and especially my wife. Was a great 10 days of rest and recovery, now it’s time to take on the Sierra’s. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">April 14, 2026</div>
     <div class="update-text">
       Just got into Kennedy Meadows South! The official close to the desert section! Next up are the Sierra's. Thankfully Amy is coming out to KMS to pick us up, we'll be off trail until May 27th-ish, gotta take care of some life stuff. Its time for new shoes, rework the backpack for whats needed in the next leg. 
