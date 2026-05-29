@@ -9,6 +9,22 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">May 27, 2026</div>
+    <div class="update-text">
+      The meadows are stunning in the Sierra’s. Big bubble of people going through the mtns. Most of the day was clear sky’s but that changed quickly as we approached 10k of elevation, a storm rolled in. We got to camp around 4pm after a 20mi day. Saw a really healthy and large coyote crossing a meadow next to our camp, way different than a city coyote. It snowed nearly all night.  
+
+A couple of times during the night I had some challenges breathing, woke up to shortness of breath. Decided to come off trail and get checked by a doctor before going up to 11k-14k elevation. I suspect it’s nothing major but I’m at that age where it’s better safe than sorry. Doc appointments setup for June 1st. Huge thank you to Amy for driving back down to Ridgecrest to pick me up…I’m lucky she’s my life partner. 
+    </div>
+  </div>
+
+<div class="update-card">
+    <div class="update-date">May 26, 2026</div>
+    <div class="update-text">
+      Only a 7mi day since we started around 3:30pm. The trail was smooth and easy, crossed a bridge with a river with a lot of flow. The wind picked up as we approached our camp spot, made the night cold and noisy but overall wasn’t bad. 
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">May 26, 2026</div>
     <div class="update-text">
       Woke up early and hit the road at 5am to start the drive from Martinez back to Kennedy Meadows South. Wouldn’t be a proper send off without hitting an hour of Bay Area traffic, gonna get to KMS around 3. Plan is to walk 7mi and setup camp. Tomorrow and the next day will be 20mi days, Saturday is the day we are targeting to hit Mt Whitney, over Forester Pass on Sunday. Monday we’ll hit Kearsarge Pass to get to a town called Independence to resupply. Not expecting much cell reception the next couple of weeks, will try and update whenever signal is available (likely town days). 
