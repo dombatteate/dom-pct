@@ -9,10 +9,31 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">June 4, 2026</div>
+    <div class="update-text">
+      Monday’s doc visit was a mixed bag. Staying true to reputation, I’ll have to push and advocate for proper attention and care from Kaiser. 
+
+- ekg showed no heart issues
+- Blood pressure looks good
+- Ultrasound on heart scheduled for June 8th
+- I’m behind on tetanus shot, getting that asap
+- Doc thinks I have sleep apnea, I’m in the sleep study queue. It’s a 3-4month wait list, I’ll be following up daily to see if I can slip the line
+- Requested blood work to check:
+    * CBC
+    * CMP
+    * BNP or NT-proBNP 
+    * TSH + Free T4
+    * Ferritin + Iron studies
+    * Magnesium
+
+It’s looking like a month before I can get enough info to be confident I’m healthy enough to go back on trail. This looks like it’s turning into a section hike. My goal is to get back and do the lower Sierra’s (the hard passes) and get to south tahoe (500mi stretch). More updates to come!
+    </div>
+  </div>
+
+<div class="update-card">
     <div class="update-date">May 27, 2026</div>
     <div class="update-text">
       The meadows are stunning in the Sierra’s. Big bubble of people going through the mtns. Most of the day was clear sky’s but that changed quickly as we approached 10k of elevation, a storm rolled in. We got to camp around 4pm after a 20mi day. Saw a really healthy and large coyote crossing a meadow next to our camp, way different than a city coyote. It snowed nearly all night.  
-
 A couple of times during the night I had some challenges breathing, woke up to shortness of breath. Decided to come off trail and get checked by a doctor before going up to 11k-14k elevation. I suspect it’s nothing major but I’m at that age where it’s better safe than sorry. Doc appointments setup for June 1st. Huge thank you to Amy for driving back down to Ridgecrest to pick me up…I’m lucky she’s my life partner. 
     </div>
   </div>
