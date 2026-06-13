@@ -9,6 +9,14 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
 
 <div class="update-card">
+    <div class="update-date">June 12, 2026</div>
+    <div class="update-text">
+       Heart tests all came back healthy. Blood work is coming in, all is in healthy ranges. Next up is the sleep study, I'll be needing to follow up daily to see if they can get me in earlier. Getting back on trail in June is looking like a long shot, hustling to try and make it back in July.
+    </div>
+  </div>
+
+
+<div class="update-card">
     <div class="update-date">June 4, 2026</div>
     <div class="update-text">
       Monday’s doc visit was a mixed bag. Staying true to reputation, I’ll have to push and advocate for proper attention and care from Kaiser. 
